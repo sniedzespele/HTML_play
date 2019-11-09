@@ -22,11 +22,14 @@
 
         figure {
             float: left;
-            display: block;
+            margin-top: 0px;
+        margin-bottom: 15px;
+        margin-right: 17px;
+        margin-left: 15px;}
         }
         figcaption {
-            font-size: 10px;
-	border: 1px solid black;
+            font-size: 30px;
+            margin-top: 10px;
         }
         html {
             background-image: url(wall.jpg);
@@ -35,6 +38,7 @@
         }
         p{
             margin-left: 10px;
+            margin-right: 10px;
         }
         h1 {
             margin-left: 10px;  
@@ -49,10 +53,13 @@
 
         iframe {
             margin-left: 10px ;
+            border: 1px solid black;
         }
 
         .flex-container {
             display: flex;
           }
           
-         
+         .second{
+             margin-left: 5px;
+         }
