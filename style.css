@@ -34,6 +34,7 @@
         html {
             background-image: url(wall.jpg);
             height: 100%; 
+            background-repeat: no-repeat;
             
         }
         p{
