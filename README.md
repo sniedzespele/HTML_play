@@ -1,2 +1,2 @@
 # HTML_play
-HTML,CSS,, JS experiments
+ Simple HTML,CSS page
